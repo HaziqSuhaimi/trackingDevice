@@ -13,7 +13,7 @@ Tracking Device using Arduino
 * Connect jumpers 
 ![alt text](example.jpg "Follow the connections")
 * Edit your script according to your cloudMQTT account
-![alt text](cloudMQTT.jpg "Follow the connections")
+![alt text](cloudMQTT.jpg "Example of cloudMQTT instance details")
 ```arduino
 const char MQTTHost[30] = "farmer.cloudmqtt.com"; // server name
 const char MQTTPort[10] = "14433"; // port number
