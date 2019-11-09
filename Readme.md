@@ -9,7 +9,7 @@ Tracking Device using Arduino
 
 ### Instructions:
 * Clone or download this repo
-* Make sure to install TinyGPSPlus - https://github.com/mikalhart/TinyGPSPlus beforehand (it do a lot of hard works for us :) )
+* Make sure to install TinyGPSPlus - https://github.com/mikalhart/TinyGPSPlus beforehand (it does a lot of hard works for us :) )
 * Connect jumpers 
 ![alt text](example.jpg "Follow the connections")
 * Edit your script according to your cloudMQTT account
